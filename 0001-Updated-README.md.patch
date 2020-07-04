@@ -1,0 +1,24 @@
+From 6e021ce950c3df9a48b413f536cc2ec4b5617e0f Mon Sep 17 00:00:00 2001
+From: shadow3049 <samittal8801@gmail.com>
+Date: Sat, 4 Jul 2020 15:04:26 +0530
+Subject: [PATCH] Updated README.md
+
+---
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 8e8ba40..47093ec 100644
+--- a/README.md
++++ b/README.md
+@@ -5,4 +5,6 @@ Sentiment Analysis in C++
+ 
+ This performs rule based sentiment analysis on a piece of text
+ You need to make a file with the contents to be analysed and give the file path as an input to the program.
+-The program will then read the data in the file and then give you a sentiment score.
++The program will read the data inside the file and give you a sentiment score.
++The file is being used so that the new line character and other breakers can be inputted as one string.
++
+-- 
+2.25.1
+
