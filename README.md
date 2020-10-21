@@ -1,5 +1,4 @@
-# Hello-World
-Sentiment Analysis in C++
+# Sentiment Analysis in C++
 
 ## My First C++ Project
 
